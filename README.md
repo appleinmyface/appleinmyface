@@ -1,6 +1,6 @@
-# 🌟 Hello, I'm [Your Name]! 🌟
+# 🌟 Hello, I'm Derick aka AppleInMyFace on GitHub! 🌟
 
-Welcome to my GitHub profile! I'm a passionate software developer specializing in **full-stack development**. Dive into my world of code, where I blend creativity with technology to build amazing applications.
+Welcome to my GitHub profile! I'm Working on Becoming a software developer specializing in **full-stack development**. Dive into my world of code, where I blend creativity with technology to build amazing applications.
 
 ---
 
@@ -39,8 +39,8 @@ Feel free to check out my repositories to see what I’m working on!
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter:** [@YourTwitterHandle](link-to-twitter)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/derick-hernandez-922b50325)
+- **Discord:** [appleinmyface](appleinmyface)
 - **Website/Blog:** [Your Website](link-to-website)
 
 ---
