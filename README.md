@@ -12,7 +12,7 @@ I’m a **full-stack developer** with a love for:
 - **Video Games** 🎮
 - **Coding** 💻
 
-Currently learning: **Java**, **HTML**, **CSS**, **Node.js**, **SQL**, **Sequelize**, and **Express.js**.
+Currently learning: **Javascript**, **HTML**, **CSS**, **Node.js**, **SQL**, **Sequelize**, **Express.js** **React** **and MORE**.
 
 **My goal?** To become a coding god and create useful, efficient applications that make a difference. 🚀
 
@@ -30,10 +30,10 @@ Here's what I'm working with:
 
 ## 📂 Projects
 
-- **[Your Awesome Project 1](link-to-project)**: A brief description of what it does.
-- **[Your Cool Project 2](link-to-project)**: Another brief description.
+- **[React Portfolio](https://github.com/appleinmyface/React-Portfolio)**: My Personal Portfolio made with React.js
+- **[Social network API](https://github.com/appleinmyface/Social-Network-API)**: This project is a back-end API for a social network web application where users can share their thoughts, react to friends' thoughts, and manage a friend list. The API is built using Node.js, Express.js, MongoDB, and Mongoose. It allows for the creation, retrieval, updating, and deletion of users, thoughts, reactions, and friends.
 
-Feel free to check out my repositories to see what I’m working on!
+Feel free to check out my latest repositories to see what I’m working on!
 
 ---
 
@@ -41,7 +41,6 @@ Feel free to check out my repositories to see what I’m working on!
 
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/derick-hernandez-922b50325)
 - **Discord:** [appleinmyface](appleinmyface)
-- **Website/Blog:** [Your Website](link-to-website)
 
 ---
 
